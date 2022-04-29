@@ -1,0 +1,17 @@
+body {
+    background-color:#0d1117 ;
+    color: #C9D1D9;
+    align-content: center;
+}
+
+.citation {
+    font-style: italic;
+}
+
+tr {
+  border: #C9D1D9;  
+}
+.info {
+    border: #C9D1D9;
+    color: #C9D1D9;
+}
