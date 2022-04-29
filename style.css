@@ -1,8 +1,17 @@
 body {
     background-color:#0d1117 ;
-    color: #C9D1D9;
-    align-content: center;
+    color: #F7E5DB;
 }
+
+h1{
+    text-align: center;
+    font-size: 95px;
+}
+
+h2{
+    text-align: center;
+    font-size: 45px;
+} 
 
 table
 {
@@ -16,8 +25,12 @@ td
 
 .citation {
     font-style: italic;
+    font-size: 41px;
+    color :#D8EFDD!important;
 }
 
-.imgmoi {
-    height: 350px;
+.profil {
+    height: 450px;
+    display: block;
+    margin: auto;
  }   
