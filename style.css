@@ -4,14 +4,20 @@ body {
     align-content: center;
 }
 
+table
+{
+    border-collapse: collapse; 
+}
+
+td
+{
+    border: 1px solid #C9D1D9;
+}
+
 .citation {
     font-style: italic;
 }
 
-tr {
-  border: #C9D1D9;  
-}
-.info {
-    border: #C9D1D9;
-    color: #C9D1D9;
-}
+.imgmoi {
+    height: 350px;
+ }   
