@@ -1,36 +1,47 @@
 body {
-    background-color:#0d1117 ;
+    background-color: #0D1117 ;
     color: #F7E5DB;
+    text-align: center;
 }
 
 h1{
-    text-align: center;
+    
     font-size: 95px;
 }
 
 h2{
-    text-align: center;
+    
     font-size: 45px;
 } 
+
+h3 {
+    font-size: 25px;
+}
 
 table
 {
     border-collapse: collapse; 
+    margin: auto;
 }
 
 td
 {
     border: 1px solid #C9D1D9;
+    font-size: 20px;
 }
 
 .citation {
     font-style: italic;
     font-size: 41px;
-    color :#D8EFDD!important;
+    color :#D8EFDD;
 }
 
 .profil {
-    height: 450px;
+    height: 650px;
     display: block;
     margin: auto;
  }   
+
+ li{
+     font-size: 20px ;
+ }
